@@ -1,0 +1,24 @@
+body
+{
+background-image: linear-gradient(#C63D2F,#E25E3E,#E25E3E,#FFBB5C);
+
+}
+p{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-style: italic;
+    margin-right: 10px;
+    
+}
+
+h1{ 
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin-left: 10px;
+}
+li{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+
+
+
+

@@ -1,0 +1,23 @@
+body
+{
+   background-image:linear-gradient(#97FEED,#35A29F,#0B666A,#071952); 
+}
+h1{
+    color: rgb(26, 11, 73);
+    text-align: center;
+    font-family: "Kanit", sans-serif;
+}
+p{
+    font-size: 18px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin-left: 10px;
+    
+}
+img{
+    margin-left: 10px;
+    transition: transform 2s ease-in-out 0.1s
+}
+img:hover{
+    transform: skew(5deg,5deg);
+    
+}
